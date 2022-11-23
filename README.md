@@ -6,14 +6,12 @@
     <div align="center">| - HTML5 - CSS3 - PHP - JAVASCRIPT - |</div>
     </p>
 <br>
-<hr>
 <br>
     <p>
     <h2 align="center">🗣️ LANGUAGE SKILLS</h2>
     <div align="center">| - PORTUGUESE - ENGLISH - |</div>
     </p>
 <br>
-<hr>
 <br>
 <div style="">
     <h2 align="center">📱 Social</h2>
@@ -23,7 +21,6 @@
     </div>
 </div>
 <br>
-<hr>
 <br>
 <!--
 **tommyniceboy/tommyniceboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
